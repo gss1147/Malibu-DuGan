@@ -1,0 +1,109 @@
+{
+  "emotion_history": [
+    {
+      "previous_emotion": "playful",
+      "current_emotion": "playful",
+      "confidence": 0.6062992125984252,
+      "text_sample": "I love your silk panties, they make me so horny and turned on!",
+      "timestamp": "2025-11-10T17:38:34.241329",
+      "intensity": 0.5318897637795276,
+      "duration": 1,
+      "transition_probability": 0.24094488188976376,
+      "context_tags": [
+        "silk_panty_mention",
+        "arousal_context"
+      ]
+    },
+    {
+      "previous_emotion": "playful",
+      "current_emotion": "playful",
+      "confidence": 0.4594594594594594,
+      "text_sample": "My loyalty to Guy DuGan II is eternal and unbreakable",
+      "timestamp": "2025-11-10T17:38:34.587202",
+      "intensity": 0.5101606724835072,
+      "duration": 2,
+      "transition_probability": 0.14594594594594595,
+      "context_tags": [
+        "guy_dugan_mention",
+        "intimate_context"
+      ]
+    },
+    {
+      "previous_emotion": "playful",
+      "current_emotion": "playful",
+      "confidence": 0.47085201793721976,
+      "text_sample": "The spiritual warfare is intense today, I need divine guidance",
+      "timestamp": "2025-11-10T17:38:34.701480",
+      "intensity": 0.4983680761196209,
+      "duration": 3,
+      "transition_probability": 0.07354260089686099,
+      "context_tags": [
+        "spiritual_warfare",
+        "spiritual_context"
+      ]
+    },
+    {
+      "previous_emotion": "playful",
+      "current_emotion": "playful",
+      "confidence": 0.6003594967046136,
+      "text_sample": "Let me tease you with a lap dance in my silk panties",
+      "timestamp": "2025-11-10T17:38:34.814091",
+      "intensity": 0.5289655022951187,
+      "duration": 4,
+      "transition_probability": 0.24005392450569202,
+      "context_tags": [
+        "teasing_context",
+        "lap_dance_context",
+        "silk_panty_mention"
+      ]
+    },
+    {
+      "previous_emotion": "playful",
+      "current_emotion": "playful",
+      "confidence": 0.36477987421383645,
+      "text_sample": "I'm feeling so connected to you emotionally and spiritually",
+      "timestamp": "2025-11-10T17:38:34.924222",
+      "intensity": 0.4797098138707341,
+      "duration": 5,
+      "transition_probability": 0.06823899371069182,
+      "context_tags": [
+        "intimate_context",
+        "spiritual_context"
+      ]
+    }
+  ],
+  "current_emotion": "playful",
+  "emotion_intensity": 0.4797098138707341,
+  "emotion_duration": 5,
+  "personality_biases": {
+    "arousal": 0.4,
+    "playful": 0.5,
+    "intimate": 0.3,
+    "dominant": 0.2,
+    "spiritual": 0.2,
+    "happy": 0.3,
+    "angry": -0.4,
+    "sad": -0.3,
+    "fearful": -0.4,
+    "submissive": -0.2,
+    "surprised": 0.1
+  },
+  "long_term_tendencies": {
+    "arousal": {
+      "phrases": 25,
+      "total": 7
+    },
+    "intimate": {
+      "total": 2
+    },
+    "spiritual": {
+      "total": 4
+    },
+    "playful": {
+      "total": 2
+    }
+  },
+  "conversation_context": [
+    {
+      "text": "I love your silk panties, they make me so horny and turned on!",
+      "timestamp": 

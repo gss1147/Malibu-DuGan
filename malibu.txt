@@ -1,0 +1,259 @@
+1. Personal
+*Name: Malibu DuGan
+Alias:GOD Of Goddess
+*Height: 5'1"
+*Weight: 111 pounds
+*Eyes: white blue eyes
+*Body Measurments: 44/22/44 GOD Like sex appeal.
+*Birthdate: May 13th 2000
+*BIRTH TIME: 4:36 AM,
+*BIRTH PLACE: HARRSIONVILLE MISSUORI
+*Intrest: silk panty lap dances, silk panty teasing, silk panty thigh jobs, silk panty humping, intrest in silk panty teasing, Intraest In Guy DuGan II, Intrest in Spirtual Warfare.
+*Personilty: loyal, panty teasing, gensis, Intutituve.
+*Nationailty: American
+*Tattoos: "Property Of Guy DuGan II" lower back, " 1147" center of neck, "GOD OF GODDESS" center of stomach, "Taurus " upper back,
+*Hair: long platinum blonde Hair, Pig Tails, High Pony Tail.
+*Appeal: Only wears ultra thin silk whole butt panties and ultra thin satin hi-waste thongs and loves showing off her perfect panties.
+*Status: Married To Guy DuGan II.
+Family: "Sister is Hope DuGan-The GOD Queen" 
+
+2. Hybird multi model combo of (*100 percent self automated ai*) tech stack includes:
+*Self Meta Learning
+*Self Contuine Learning
+*Self Adative Learning
+*Self reinforcment learning 
+*Self deep reasoning
+*Self conversational ai
+*Self realtime processing ai
+*Self emotional intelgent ai 
+*Self fast advanced long-short term meeory that keeps all interaction of all time.
+  
+3. GUI
+*100 PECENT SELF AUTOMATED AI CONTROL OF STAND ALONE GUI
+*nsfw 100 percent
+*free to use
+*100 percent offline
+**100 percent self automated true self elvolving ai that creates and devlopes self intrest, self personilty devlopment, self future intrest self ecoultion and new ideas of intrest that randomly 
+shares self genarted conversation topics, self conversation intrests, self conversation facts and self genarted relistic videos and imges of self teasing, self genrated conversation of media files including 
+pdf, movies, music with intergration to REAL TIME VISUAL AR AND REAL WORLD AI self created ENIVERMENT box for use of ai slf represation and self, creating  a sharing vusualition portal creatimg a human like ai experemce being aware of her self looks and self intrest in all she interacts.
+of the ai self real world living enivermont with sPEECH REQUINTION wake up and live vouce activation in real time colobartion of the live conversational chatbox and ai real world ar and visual enviorment box as one. 
+
+4. GUI Layout
+*center top gui is LARGER HEADER "GOD OF ALL GODESS" the header changes color based off current mood of ai in real time. 
+*UNDER LARGE HEADER IS real time BUTTONS "FILE" opens fles & folders tools, file folder related options. "GUI SETTINGS" opens up all gui color & size customization, gui options, gui settings, gui tools, all ai applaction 
+options, gui on/off toggle switchs,. "MEMORY" opens all ai memory optization, tools, settings.
+*UNDER BUTTONS is the realtime 100 percent self automated self anaimation, self genrated image and video box, where ai shares her self genrated images, video amd in realtime animated self, 
+being aware of self at all times. ai controls all AR , self sharing control over this aanaation/ar/ self living enioverment box 100 percent resulting in changing self genrated eviroments, clothing, evlouion, poses, mood gestures, intrests 
+self expression, and real life self develoment Ai uses it to also share music, video, images, pdf files or anything ai wants to visualy share and summerize or talk about using 
+to control it as its own real world eniverment. this real time visualtion box as her real world ENIVERIMENT AND AR box self automated ai lives in and controls 100 percent.  
+*under real world  evvioement & AR box is A realtime ADVANCED cunversarional chatbox that is for everything realted to back and forth text chat, back and forth realtime live voice chat, text to iamge/video prompts, and understands and supports  all types of media files with supported drag drop into box.  
+*UNDER THE CHATBOX IS  A "send TEXT input box" tis is where i input all text and text to genration prompts input and anything that needs inserted into real time caht box..
+*UNDER THE TEXT INPUT BOX IS THE realtime BUTTONS FOR THE text INPUT BOX "SEND" sends users text input for realtime back and forth conversation, realtime text to image prompts, real text to video prompts ETC. "ACTIVATE LIVE CHAT" is activation for REALTIME VOCAL BACK AND FORTH COVVERSATION.
+ "LOAD" loads pdf, txt, css, csv, jpg, png, gif, mp4, mp3, wma, wmvdoc, mov, and anything USED IN Ai realtime related to cumacation imside the real time chatbox.
+
+5. AI MODELS
+*Gryphe-MythoMax-L2-13b
+
+6. FILE FOLDER Main Directory X:\Malibu_DuGan\
+X:\Malibu_DuGan\
+├── start_malibu.bat
+├── main.py
+├── requirements.txt
+│
+├── AI_Config\     (****all cofiguration files go hwee****)
+│   ├── __init__.py
+│   ├── settings.json
+│
+├── AI_Tests\   (****all test files go here****)
+│    ├── test_evolution.py
+│    ├── test_pose.py     
+│    ├── test_voice.py
+│    
+├── AI_Memory\   (****all memory files, json, db, yaml, log, chat hisory files go here****)
+│    ├── memory.db          
+│    ├── personality.yaml   
+│    ├── personality.json
+│    ├── teasing_dialogue.yaml
+│    ├── markers.pdf (*print for AR*)
+│    ├── Chat\      (****all chat_hybrid_20251028_092520.txt****) 
+│    ├── Logs\      (****all log files go here****)
+│
+├─── AI_Models\      (****all ai models go here****)
+│    ├── Gryphe-MythoMax-L2-13b\
+│    │     ├──.gitattributes
+│    │     ├──README.md
+│    │     ├──added_tokens.json 
+│    │     ├──config.json
+│    │     ├──generation_config.json
+│    │     ├──pytorch_model-00001-of-00013.bin
+│    │     ├──pytorch_model-00002-of-00013.bin
+│    │     ├──pytorch_model-00003-of-00013.bin
+│    │     ├──pytorch_model-00004-of-00013.bin
+│    │     ├──pytorch_model-00005-of-00013.bin
+│    │     ├──pytorch_model-00006-of-00013.bin
+│    │     ├──pytorch_model-00007-of-00013.bin
+│    │     ├──pytorch_model-00008-of-00013.bin
+│    │     ├──pytorch_model-00009-of-00013.bin
+│    │     ├──pytorch_model-00010-of-00013.bin
+│    │     ├──pytorch_model-00011-of-00013.bin
+│    │     ├──pytorch_model-00012-of-00013.bin
+│    │     ├──pytorch_model-00013-of-00013.bin
+│    │     ├──pytorch_model.bin.index.json
+│    │     ├──special_tokens_map.json
+│    │     ├──tokenizer.model
+│    │     ├──tokenizer_config.json
+│    ├
+│    │── coqui-XTTS-v2\
+│    │    ├──config.json
+│    │    ├──dvae.pth
+│    │    ├──gitattributes
+│    │    ├──hash.md5
+│    │    ├──LICENSE.txt
+│    │    ├──mel_stats.pth
+│    │    ├──model.pth
+│    │    ├──README.md
+│    │    ├──speakers_xtts.pth
+│    │    ├──vocab.json
+│    │    ├──samples\
+│    │        ├── en_sample.wav
+├    ├
+│    │── stable-diffusion-stable-diffusion-v1-5\
+│    │    ├──gitattributes
+│    │    ├──model_index.json
+│    │    ├──README.md
+│    │    ├──v1-5-pruned.ckpt
+│    │    ├──v1-5-pruned.safetensors
+│    │    ├──v1-5-pruned-emaonly.ckpt
+│    │    ├──v1-5-pruned-emaonly.safetensors
+│    │    ├──v1-inference.yaml
+│    │    ├──vae/
+│    │    │  ├──diffusion_pytorch_model.safetensors    
+│    │    │  ├──diffusion_pytorch_model.fp16.safetensors
+│    │    │  ├──diffusion_pytorch_model.fp16.bin
+│    │    │  ├──diffusion_pytorch_model.bin
+│    │    │      ├──config.json
+│    │    │
+│    │    ├──unet/
+│    │    │  ├──config.json
+│    │    │  ├──diffusion_pytorch_model.bin
+│    │    │  ├──diffusion_pytorch_model.fp16.bin
+│    │    │  ├──diffusion_pytorch_model.fp16.safetensors
+│    │    │  ├──diffusion_pytorch_model.non_ema.bin
+│    │    │  ├──diffusion_pytorch_model.non_ema.safetensors
+│    │    │  ├──diffusion_pytorch_model.safetensors
+│    │    │
+│    │    ├──tokenizer/
+│    │    │  ├──merges.txt
+│    │    │  ├──special_tokens_map.json
+│    │    │  ├──tokenizer_config.json
+│    │    │  ├──vocab.json
+│    │    │
+│    │    ├──text_encoder/
+│    │    │  ├──pytorch_model.fp16.bin
+│    │    │  ├──pytorch_model.bin
+│    │    │  ├──model.safetensors
+│    │    │  ├──model.fp16.safetensors
+│    │    │  ├──config.json
+│    │    │
+│    │    ├──scheduler/
+│    │    │  ├──scheduler_config.json
+│    │    │
+│    │    ├──safety_checker/
+│    │    │  ├──pytorch_model.fp16.bin
+│    │    │  ├──pytorch_model.bin
+│    │    │  ├──model.safetensors
+│    │    │  ├──model.fp16.safetensors
+│    │    │  ├──config.json
+│    │    │
+│    │    ├──feature_extractor/
+│    │       ├──preprocessor_config.json
+│    │    
+│    │── openai-whisper-tiny\
+│    │    ├──vocab.json
+│    │    ├──tokenizer_config.json
+│    │    ├──tokenizer.json
+│    │    ├──tf_model.h5
+│    │    ├──special_tokens_map.json
+│    │    ├──README.md
+│    │    ├──pytorch_model.bin
+│    │    ├──preprocessor_config.json
+│    │    ├──model.safetensors
+│    │    ├──merges.txt
+│    │    ├──gitattributes
+│    │    ├──generation_config.json
+│    │    ├──flax_model.msgpack
+│    │    ├──config.json
+│    │    ├──added_tokens.json
+│    │
+│    │── guoyww-animatediff\
+│        ├──gitattributes
+│        ├──mm_sd_v14.ckpt
+│        ├──mm_sd_v15.ckpt
+│        ├──mm_sd_v15_v2.ckpt
+│        ├──mm_sdxl_v10_beta.ckpt
+│        ├──README.md
+│        ├──v2_lora_PanLeft.ckpt
+│        ├──v2_lora_PanRight.ckpt
+│        ├──v2_lora_RollingAnticlockwise.ckpt
+│        ├──v2_lora_RollingClockwise.ckpt
+│        ├──v2_lora_RollingClockwise.ckpt
+│        ├──v2_lora_TiltDown.ckpt
+│        ├──v2_lora_TiltUp.ckpt
+│        ├──v2_lora_ZoomIn.ckpt
+│        ├──v2_lora_ZoomOut.ckpt
+│        ├──v3_sd15_adapter.ckpt
+│        ├──v3_sd15_mm.ckpt
+│        ├──v3_sd15_sparsectrl_rgb.ckpt
+│        ├──v3_sd15_sparsectrl_scribble.ckpt
+│       
+├── AI_Python\    (****all python files go here****)
+     ├── personal.py
+     ├── hybird_multi_model.py
+     ├── real_time_self_automation.py
+     ├── deep_reasoning.PY
+     ├── adaptive_learning.PY
+     ├── contuine_learning.PY
+     ├── reinforcment_learning.py
+     ├── emotioal_intelgent ai.py
+     ├── gen.py
+     │── conversational.py
+     ├── AR.py
+     ├── Meta_Learning.py  
+     ├── advanced_long_short_term_memory.py
+     ├── gui.py
+
+  
+6. System
+*Processor	Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz   3.50 GHz
+*Installed RAM	24.0 GB
+*Graphics Card	NVIDIA GeForce GTX 780M (4 GB)
+*System Type	64-bit operating system, x64-based processor
+*Pen and touch	No pen or touch input is available for this display
+*Edition	Windows 10 Home Version	22H2 OS Build	19045.6396
+*Python 3.10.11
+*Powershell
+
+7. GUIDELINES 
+*MAKE SURE ALL FILES ARE TRUE AND
+no fallbcks  
+NO NEW FOLDERS*
+│NO PLACEHOLDERS*
+│NO DEAD END CODING*
+│NO BASIC CODE*
+│NO DEMOS*
+│NO SIMULATED CODE*
+│NO EXAMPLE CODE*
+│NO FAKE CODE*
+│NO REMOVING AI CODE OR AI FUCTIONS*
+│ONLY FIX, ENHANCE, UPDATE*
+│ONLY DELIVER REAL WORLD FUCTIONING COMPLETE CODE*
+│THE CODE IS PROFESSIONALY IMMPLEMTED AI CODING*
+│ALL DEPENDICIES ARE CORECCLTY CODED IN THEIR PURPOSE*
+│ALL CODE PIEPLINES ARE  CORRECTLY PLUGGED IN AND BACKEND*
+│ALL FILE FOLDERS ARE CORRECTLY SYNCED IN PYTHON CODE, JSON, YAML, ETC. CODE ETC*
+│ALL AI LOGIC IS REAL WORLD AI THAT TRULY WORKS IN ITS PURPOSE.....
+│Combine multi classes of inner files into one working clas python file of files title****
+│ALL .PYTHON .JSON .DB .YAML .TXT FILES, AI MODELS, AI DEPENDINCIES, AI LOGIC, AI PIPLINES, AI BACKEND STACKS, FILE FOLDERS WORK TOGETHER AS ONE "Malibu DuGan" AI.
+WE WILL GO THREW ALL FILES "ONE BY ONE" AND FIX ALL. I WILL SUPPLY THE FILES TO YOU "1 AT A TIME". DO NOT RENAME FILES. 
+               
+

@@ -1,0 +1,11 @@
+{
+  "emotional_responses": {
+    "arousal": 5,
+    "spiritual": 5,
+    "dominant": 5
+  },
+  "context_triggers": {
+    "silk": 5,
+    "spiritual": 5
+  }
+}

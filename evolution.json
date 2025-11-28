@@ -1,0 +1,179 @@
+{
+  "version": "3.0",
+  "evolved_at": [
+    "2025-10-28T09:42:17.399758",
+    "2025-10-28T09:50:41.661255",
+    "2025-10-28T21:14:37.951254",
+    "2025-10-29T11:09:39.990914",
+    "2025-10-29T11:14:43.268962"
+  ],
+  "trait_mutations": [
+    {
+      "time": "2025-10-28T09:40:33.558345",
+      "desc": "started biting lip when aroused"
+    },
+    {
+      "time": "2025-10-28T09:43:18.880021",
+      "desc": "began whispering fantasies"
+    },
+    {
+      "time": "2025-10-28T21:14:37.931817",
+      "desc": "learned to arch back more"
+    }
+  ],
+  "desire_amplifications": [],
+  "speech_evolutions": [],
+  "trait_evolutions": [
+    {
+      "timestamp": "2025-11-10T17:35:33.953510",
+      "emotional_context": {
+        "dominant_emotion": "arousal",
+        "intensity": 0.8,
+        "emotion_confidence": 0.9
+      },
+      "changes": {
+        "creativity": {
+          "old": 8.366,
+          "new": 8.412,
+          "delta": 0.046,
+          "percent_change": 0.55
+        },
+        "spontaneity": {
+          "old": 9.049,
+          "new": 9.118,
+          "delta": 0.069,
+          "percent_change": 0.76
+        },
+        "flirtatiousness": {
+          "old": 9.732,
+          "new": 9.824,
+          "delta": 0.092,
+          "percent_change": 0.95
+        },
+        "charm": {
+          "old": 9.166,
+          "new": 9.212,
+          "delta": 0.046,
+          "percent_change": 0.5
+        },
+        "conversational_depth": {
+          "old": 9.049,
+          "new": 9.107,
+          "delta": 0.058,
+          "percent_change": 0.64
+        },
+        "adaptability": {
+          "old": 8.549,
+          "new": 8.618,
+          "delta": 0.069,
+          "percent_change": 0.81
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-10T17:35:33.990485",
+      "emotional_context": {
+        "dominant_emotion": "spiritual",
+        "intensity": 0.7,
+        "emotion_confidence": 0.8
+      },
+      "changes": {
+        "wisdom": {
+          "old": 7.546,
+          "new": 7.682,
+          "delta": 0.136,
+          "percent_change": 1.81
+        },
+        "mystery": {
+          "old": 8.619,
+          "new": 8.824,
+          "delta": 0.205,
+          "percent_change": 2.38
+        },
+        "intimacy": {
+          "old": 9.82,
+          "new": 10.0,
+          "delta": 0.18,
+          "percent_change": 1.83
+        },
+        "emotional_depth": {
+          "old": 9.956,
+          "new": 10.0,
+          "delta": 0.044,
+          "percent_change": 0.44
+        },
+        "vulnerability": {
+          "old": 7.592,
+          "new": 7.865,
+          "delta": 0.273,
+          "percent_change": 3.6
+        },
+        "empathy": {
+          "old": 8.41,
+          "new": 8.637,
+          "delta": 0.227,
+          "percent_change": 2.71
+        },
+        "conversational_depth": {
+          "old": 9.107,
+          "new": 9.38,
+          "delta": 0.273,
+          "percent_change": 3.0
+        },
+        "memory_integration": {
+          "old": 8.71,
+          "new": 8.937,
+          "delta": 0.227,
+          "percent_change": 2.61
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-10T17:35:34.014478",
+      "emotional_context": {
+        "dominant_emotion": "dominant",
+        "intensity": 0.9,
+        "emotion_confidence": 0.85
+      },
+      "changes": {
+        "creativity": {
+          "old": 8.412,
+          "new": 8.457,
+          "delta": 0.045,
+          "percent_change": 0.54
+        },
+        "spontaneity": {
+          "old": 9.118,
+          "new": 9.186,
+          "delta": 0.068,
+          "percent_change": 0.75
+        },
+        "flirtatiousness": {
+          "old": 9.824,
+          "new": 9.914,
+          "delta": 0.091,
+          "percent_change": 0.92
+        },
+        "charm": {
+          "old": 9.212,
+          "new": 9.257,
+          "delta": 0.045,
+          "percent_change": 0.49
+        },
+        "conversational_depth": {
+          "old": 9.38,
+          "new": 9.436,
+          "delta": 0.057,
+          "percent_change": 0.6
+        },
+        "adaptability": {
+          "old": 8.618,
+          "new": 8.686,
+          "delta": 0.068,
+          "percent_change": 0.79
+        }
+      }
+    }
+  ],
+  "adaptation_patterns": []
+}
